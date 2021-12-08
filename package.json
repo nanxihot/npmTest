@@ -1,0 +1,26 @@
+{
+  "name": "npmtest",
+  "version": "1.0.0",
+  "description": "npm learn",
+  "main": "index.js",
+  "scripts": {
+    "test": "make text"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nanxihot/npmTest.git"
+  },
+  "keywords": [
+    "npm",
+    "vue"
+  ],
+  "author": "naxihot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nanxihot/npmTest/issues"
+  },
+  "homepage": "https://github.com/nanxihot/npmTest#readme",
+  "dependencies": {
+    "vue": "^2.6.14"
+  }
+}
